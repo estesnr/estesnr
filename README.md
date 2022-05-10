@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/excitablenate" target="blank"><img src="https://img.shields.io/twitter/follow/excitablenate?logo=twitter&style=for-the-badge" alt="excitablenate" /></a> </p>
 
+<img src='https://www.codewars.com/users/Mecharossman/badges/small'>
+
 - 🔭 I’m currently working on [a Dungeon's and Dragons interactive Database](https://github.com/estesnr/tomeGoblin)
 
 - 🌱 I’m currently learning **MSSQL and other relational databases**
