@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **estesnr@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1S1U4Rr4delZ7Y386OUJLDgaYEKT9Wdgs/edit](https://docs.google.com/document/d/1S1U4Rr4delZ7Y386OUJLDgaYEKT9Wdgs/edit)
+- 📄 I complete and push at least 1 codewars problem each day.
 
 - ⚡ Fun fact **I love to joke around and talk about nerdy stuff.**
 
