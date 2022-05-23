@@ -8,7 +8,7 @@
 
 <img src='https://www.codewars.com/users/Mecharossman/badges/small'>
 
-- 🔭 I’m currently working on [a Dungeon's and Dragons interactive Database](https://github.com/estesnr/tomeGoblin)
+- 🔭 I’m currently working on an interactive website for a client.
 
 - 🌱 I’m currently learning **MSSQL and other relational databases**
 
