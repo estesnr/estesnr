@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/excitablenate" target="blank"><img src="https://img.shields.io/twitter/follow/excitablenate?logo=twitter&style=for-the-badge" alt="excitablenate" /></a> </p>
 
-<img src='https://www.codewars.com/users/Mecharossman/badges/small'>
+<img src='https://www.codewars.com/users/Mecharossman/badges/large'>
 
 - 🔭 I’m currently working on an interactive website for a client and developing my own API.
 
