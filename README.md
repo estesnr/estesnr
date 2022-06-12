@@ -8,7 +8,7 @@
 
 <img src='https://www.codewars.com/users/Mecharossman/badges/large'>
 
-- 🔭 I’m currently working on an interactive website for a client and developing my own API.
+- 🔭 I’m currently working on an interactive website for a client and developing my own API!
 
 - 🌱 I’m currently learning **MSSQL, MongoDB and other relational databases**
 
