@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer from Dayton, OH. Looking to create exciting new apps and learn more about AI, AR, and VR.</h3>
+<h3 align="center">Software Engineer from Dayton, OH. Looking to create exciting new apps and learn more about Databases and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estesnr&label=Profile%20views&color=0e75b6&style=flat" alt="estesnr" /> </p>
 
@@ -8,7 +8,7 @@
 
 <img src='https://www.codewars.com/users/Mecharossman/badges/large'>
 
-- 🔭 I’m currently working on an interactive website for a client and developing my own API!
+- 🔭 I’m currently working on an interactive website for a client and strenghthening skills with Python for a new employment opportunity!
 
 - 🌱 I’m currently learning **MSSQL, MongoDB and other relational databases**
 
